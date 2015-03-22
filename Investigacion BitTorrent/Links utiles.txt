@@ -1,0 +1,14 @@
+Tit-for-tat: http://es.wikipedia.org/wiki/Toma_y_daca
+	Si me cagas, te cago. En contexto -> si un usuario no sube cosas, deberia bajar a baja velocidad.
+
+
+Pareto Efficiency: http://en.wikipedia.org/wiki/Pareto_efficiency
+	Para que alguien mejore, alguien debe empeorar.
+
+Tit-for-tat + Pareto Efficiency = Le doy mejor velocidad de bajada a los que ayudan, y a los que no se las bajo
+
+
+Middlewares:
+
+JXTA: http://es.wikipedia.org/wiki/JXTA
+AMQP: http://es.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol

@@ -1,0 +1,8 @@
+LibTorrent (En C++).
+Hay un wrapper para python: sudo apt-get install python-libtorrent
+http://libtorrent.org
+Ver archivo de ejemplo
+
+
+Hecho en python puro: https://pypi.python.org/pypi/BitTorrent/3.3
+http://www.bittornado.com/
